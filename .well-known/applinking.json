@@ -7,27 +7,27 @@
         "actions": [
           {
             "action": "view",
-            "uris": "maikaka://main/index",
-            "moduleName": "entry",
-            "abilityName": "EntryAbility",
-            "params": {}
-          },
-          {
-            "action": "view",
-            "uris": "maikaka://detail/index",
+            "uris": "https://www.zczx.top/maikaka/detail",
             "moduleName": "entry",
             "abilityName": "EntryAbility",
             "params": {
               "todoId": "int"
             }
+          },
+          {
+            "action": "view",
+            "uris": "https://www.zczx.top/maikaka/main",
+            "moduleName": "entry",
+            "abilityName": "EntryAbility",
+            "params": {}
           }
         ]
       }
     ],
     "apps": [
       {
-        "appIdentifier":"6917591720694221874",
         "appID": "com.myk.maikaka",
+        "appIdentifier": "6917591720694221874",
         "labels": [
           "display",
           "麦卡卡"
