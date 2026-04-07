@@ -26,6 +26,7 @@
     ],
     "apps": [
       {
+        "appIdentifier":"6917591720694221874",
         "appID": "com.myk.maikaka",
         "labels": [
           "display",
