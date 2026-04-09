@@ -1,50 +1,9 @@
 {
-  "applinks": {
-    "details": [
-      {
-        "appID": "com.myk.maikaka",
-        "appPkg": "com.myk.maikaka",
-        "actions": [
-          {
-            "action": "view",
-            "uris": "https://www.zczx.top/maikaka/detail",
-            "moduleName": "entry",
-            "abilityName": "EntryAbility",
-            "params": {
-              "todoId": "int"
-            }
-          },
-          {
-            "action": "view",
-            "uris": "https://www.zczx.top/maikaka/main",
-            "moduleName": "entry",
-            "abilityName": "EntryAbility",
-            "params": {}
-          }
-        ]
-      }
-    ],
-    "apps": [
-      {
-        "appID": "com.myk.maikaka",
-        "appIdentifier": "6917591720694221874",
-        "labels": [
-          "display",
-          "麦卡卡"
-        ],
-        "appTitle": "麦卡卡",
-        "appDescription": "一款简洁高效的待办事项管理应用",
-        "appIcon": "$icon",
-        "appVersion": {
-          "code": 1,
-          "targetVer": "1.0.0"
-        },
-        "appURL": "https://www.zczx.top",
-        "appMarketplace": {
-          "name": "Huawei AppGallery",
-          "url": "https://appgallery.huawei.com/app/C123456789"
-        }
-      }
-    ]
-  }
+ "applinking": {
+   "apps": [
+     {
+       "appIdentifier": "6917591720694221874"
+     }
+   ]
+ }
 }
